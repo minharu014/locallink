@@ -10,7 +10,7 @@ TODO: lägg den nya github länken här för
     <br> 
 </p>
 
-## 🧐 About <a name = "about"></a>
+## About <a name = "about"></a>
 
 Det är en react.js sida med tailwindCSS. om du läser detta, gör vad du vill och vad cheferna säger.
 
@@ -25,6 +25,8 @@ bg-[#00df9a]
 ```
 
 2. Göra component av Cards
+
+3. Göra component av Footer
 
 ### Installing
 
