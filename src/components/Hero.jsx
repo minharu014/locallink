@@ -22,7 +22,7 @@ const Hero = () => {
           />
         </div>
         <p className="md:text-2xl text-xl font-bold md:pl-4 text-gray-500">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Itaque{" "}
+          Lorem, ipsum dolor ssit amet consectetur adipisicing elit. Itaque{" "}
         </p>
         <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">
           Get Started
