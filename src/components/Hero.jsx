@@ -3,7 +3,7 @@ import { ReactTyped } from "react-typed";
 
 const Hero = () => {
   return (
-    <div className="text-white">
+    <div className="text-black bg-main">
       <div className="max-w-[800px] mt-[96xpx] w-full h-screen mx-auto text-center flex flex-col justify-center">
         <p className="text-[#00df9a] font-bold p-2">THE BEST APP</p>
         <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6">

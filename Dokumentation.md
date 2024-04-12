@@ -41,6 +41,8 @@ NULL
 - React.js
 - TailwindCSS
 - Reacttyped (https://www.npmjs.com/package/react-typed)
+- font awesome
+- react icons
 
 ## ✍️ Authors <a name = "authors"></a>
 
